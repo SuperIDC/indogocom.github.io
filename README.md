@@ -1,9 +1,9 @@
 # aku
-## sayang
-### kamu
-#### juga
-##### sayang
-###### tapi
-####### sayang
-######## kita
-######### berjauhan
+# sayang
+# kamu
+# juga
+# sayang
+# tapi
+# sayang
+# kita
+# berjauhan
